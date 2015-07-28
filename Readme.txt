@@ -11,7 +11,7 @@ checking mention,and sending mention
 
 2.make data based on a mentioned tweet.
 this will check only some 'keywords' like 
-'feeding'(¸ÔÀÌ), 'petting'(¾²´ã),and 'playing with'(ÅĞ½Ç)
+'feeding'(ë¨¹ì´), 'petting'(ì“°ë‹´),and 'playing with'(í„¸ì‹¤)
 frequency of these key words determines the integer based status
 ('illness', 'loneliness')
 
