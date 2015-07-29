@@ -1,0 +1,7 @@
+2015.07.28
+read me file wrote
+
+2015.07.29
+generate main.py
+	-call account information and save information
+	-check out if account information exists.
